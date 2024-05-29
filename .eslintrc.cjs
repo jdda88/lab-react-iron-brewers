@@ -13,5 +13,5 @@ module.exports = {
     "react-refresh/only-export-components": "warn",
     "react/prop-types": 0,
     "no-unused-vars": ["error", { varsIgnorePattern: "^set" }],
-  },
+  },"react/prop-types": false,
 };
